@@ -1,0 +1,14 @@
+@import './variables';
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:$background-color;
+}
+
+.App{
+    height: 100hv;
+    max-height: 100vh;
+    width: 100hv;
+    //background-color:$background-color;
+}
